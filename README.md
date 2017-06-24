@@ -1,4 +1,4 @@
-# c-consoledownloader
+# c# console downloader
 This program is made in C# and has the ability to download files from the internet just like wget. I am in no way trying to compete with wget but rather see what I could make whilst being bored. Please do not steal credit from me as that would be very unfortunate. You can read the source code to assure yourself that there is nothing malicious within this C# project. Thank-you, and enjoy. Also, some of the code is cluttered and wrong, if there are complaints I may fix these.
 
 
